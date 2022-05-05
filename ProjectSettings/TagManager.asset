@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - schraube
+  - platine
+  - werkbank
+  - boden
+  - controller_base
+  - controller_arm
+  - controller_upper_arm
+  - controller_arm_end_attachment
+  - "geh\xE4use"
+  - "flie\xDFband"
+  - it1st1
+  - it1st2
+  - it1st3
+  - it2st1
+  - it2st2
+  - it2st3
+  - it3st1
+  - it3st2
+  - it3st3
+  - it4st1
+  - it4st2
+  - it4st3
+  - iteration1
+  - iteration2
+  - iteration3
+  - iteration4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
