@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using cakeslice;
-using PCS;
 
 public class RobotIK : MonoBehaviour
 {
@@ -241,8 +240,8 @@ public class RobotIK : MonoBehaviour
             board.AddComponent<Outline>();
         }
         else if(targetWord == "Fließband") {
-            PCSConfig script = targetObject.GetComponentInChildren<PCSConfig>();
-            script.addOutline = true;
+            // PCSConfig script = targetObject.GetComponentInChildren<PCSConfig>();
+            // script.addOutline = true;
         }
         else
         {
